@@ -2,7 +2,7 @@
 //  SampleDetailViewController.swift
 //  ShimmerExamples
 //
-//  Created by Ömer Faruk Öztürk on 9.01.2021.
+//  Created by Pratik Singh on 9.01.2021.
 //
 
 import UIKit
